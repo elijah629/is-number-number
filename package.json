@@ -2,9 +2,10 @@
   "name": "is-number-number",
   "version": "1.0.0",
   "description": "Checks if a number is a number, very useful for numbers",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/elijah629/is-number-number/issues"
   },
-  "homepage": "https://github.com/elijah629/is-number-number#readme"
+  "homepage": "https://github.com/elijah629/is-number-number#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
 }
