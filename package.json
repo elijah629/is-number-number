@@ -1,6 +1,6 @@
 {
   "name": "is-number-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if a number is a number, very useful for numbers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -1,3 +1,3 @@
-function isNumber(x: number): bool {
+function isNumber(x: number): boolean {
     return true;
 }
