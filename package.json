@@ -1,0 +1,24 @@
+{
+  "name": "is-number-number",
+  "version": "1.0.0",
+  "description": "Checks if a number is a number, very useful for numbers",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijah629/is-number-number.git"
+  },
+  "keywords": [
+    "is",
+    "number",
+    "number"
+  ],
+  "author": "elijah629",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elijah629/is-number-number/issues"
+  },
+  "homepage": "https://github.com/elijah629/is-number-number#readme"
+}
